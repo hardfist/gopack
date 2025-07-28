@@ -1,0 +1,24 @@
+# Ignore build outputs
+/dist/
+/build/
+
+# Ignore Go binary
+gopack
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore test coverage
+*.out
+coverage.html
