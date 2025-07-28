@@ -3,3 +3,6 @@ Webpack in Go(This is a experimental project to test whether AI can really port 
 
 ## Goals
 * integrate typechecker & linter & bundler & language service together
+
+## Non Goals
+* compatible with webpack plugins and JS API
